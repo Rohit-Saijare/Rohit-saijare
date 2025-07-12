@@ -5,7 +5,7 @@ A passionate developer from India
 Cow detection system using YOLOv10 + Flutter mobile app  
  
 ## 📫 How to reach me  
-📩 **Email:** your@email.com  
+📩 **Email:** rohitsaijare.ggu@gmail.com  
 
 ## 🛠️ Languages and Tools
 
