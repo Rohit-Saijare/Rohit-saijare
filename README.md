@@ -1,10 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohit-Saijare&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <h1>Hi 👋, I'm Rohit Saijare</h1>
-  <b>A passionate developer from India</b><br>
+  <b>Hi 👋, I'm Rohit Saijare</b><br>
+  A passionate developer from India
 </p>
- 
 
 ## 🔭 I’m currently working on  
 Cow detection system using YOLOv10 + Flutter mobile app  
