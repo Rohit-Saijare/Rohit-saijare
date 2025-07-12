@@ -1,5 +1,7 @@
 # Hi 👋, I'm Rohit Saijare  
 A passionate developer from India  
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🔭 I’m currently working on  
 Cow detection system using YOLOv10 + Flutter mobile app  
