@@ -3,7 +3,6 @@
 <p align="center">
   <h1>Hi 👋, I'm Rohit Saijare</h1>
   <b>A passionate developer from India</b><br>
-  <img src="https://komarev.com/ghpvc/?username=rohitsai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
  
 
