@@ -21,7 +21,6 @@ Cow detection system using YOLOv10 + Flutter mobile app
 
 
 
-
 ---
 
 ## 📈 GitHub Stats  
